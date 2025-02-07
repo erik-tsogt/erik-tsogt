@@ -2,9 +2,9 @@
 
 **Full-Stack Developer | JavaScript | TypeScript | Node.js | Next.js | Cloud Computing**
 
-🚀 Passionate about building scalable web apps and APIs
-💡 Always exploring new tech & best practices
-🔧 Currently learning **Next.js and exploring **cloud computing**
+- 🚀 Passionate about building scalable web apps and APIs
+- 💡 Always exploring new tech & best practices
+- 🔧 Currently learning **Next.js** and exploring **cloud computing**
 
 ---
 
