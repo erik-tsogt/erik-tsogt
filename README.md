@@ -8,7 +8,7 @@
 
 ---
 
-##🔨 Tech Stack
+## 🔨 Tech Stack
 - **Languages:** JavaScript, TypeScript
 - **Frontend:** React, Next.js
 - **Backend:** Node.js, Express.js
